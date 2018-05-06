@@ -1,0 +1,8 @@
+C:\Users\julia\source\repos\Wox.Plugin.Media\Wox.Plugin.Media\bin\Debug\Wox.Plugin.Media.dll
+C:\Users\julia\source\repos\Wox.Plugin.Media\Wox.Plugin.Media\bin\Debug\Wox.Plugin.Media.pdb
+C:\Users\julia\source\repos\Wox.Plugin.Media\Wox.Plugin.Media\bin\Debug\Wox.Plugin.dll
+C:\Users\julia\source\repos\Wox.Plugin.Media\Wox.Plugin.Media\obj\Debug\Wox.Plugin.Media.csprojResolveAssemblyReference.cache
+C:\Users\julia\source\repos\Wox.Plugin.Media\Wox.Plugin.Media\obj\Debug\Wox.Plugin.Media.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\Wox.Plugin.Media\Wox.Plugin.Media\obj\Debug\Wox.Plugin.Media.csproj.CopyComplete
+C:\Users\julia\source\repos\Wox.Plugin.Media\Wox.Plugin.Media\obj\Debug\Wox.Plugin.Media.dll
+C:\Users\julia\source\repos\Wox.Plugin.Media\Wox.Plugin.Media\obj\Debug\Wox.Plugin.Media.pdb
